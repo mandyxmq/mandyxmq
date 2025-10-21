@@ -7,7 +7,7 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🎯 Researcher @ Yale University, working on Graphics and AI
+- 🎯 Researcher @ Yale University, working on Computer Graphics and AI
 - 🎓 Ph.D. in Computer Science from Cornell University
 
 ### 📚 Selected Publications
