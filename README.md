@@ -38,11 +38,11 @@
        <a href="https://www.youtube.com/watch?v=KrpSBvp7jnY"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge"></a>
      </td>
      <td width="50%" valign="top">
-       <b>MatSynth: A Modern PBR Materials Dataset</b><br>
+       <b>A Wave Optics Based Fiber Scattering Model</b><br>
        ACM Transactions on Graphics, 2020 <br><br>
        <a href="https://mandyxia.com/research/wavefiber.html"><img src="https://img.shields.io/badge/-🔗_Project-blue?style=for-the-badge"></a>
        <a href="https://mandyxia.com/research/assets/WaveOpticsFiber_sa20.pdf"><img src="https://img.shields.io/badge/-📄_Paper-lightgrey?style=for-the-badge"></a>
-       <a href="youtube.com/watch?v=gx5K0BLM1Ws&feature=youtu.be"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge"></a>
+       <a href="https://www.youtube.com/watch?v=gx5K0BLM1Ws"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge"></a>
      </td>
    </tr>
  </table>
