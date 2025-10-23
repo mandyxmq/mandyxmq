@@ -25,6 +25,7 @@
      <td width="50%" valign="top">
        <b>Spectral Reconstruction with Uncertainty Quantification via Differentiable Rendering and Null-Space Sampling</b><br>
        SIGGRAPH Asia, 2025 <br><br>
+       <a href="https://mandyxia.com/research/hir.html"><img src="https://img.shields.io/badge/-🔗_Project-blue?style=for-the-badge"></a>
        <a href="https://mandyxia.com/research/assets/HIS.pdf"><img src="https://img.shields.io/badge/-📄_Paper-lightgrey?style=for-the-badge"></a>
        <a href="https://www.youtube.com/watch?v=VhsLlLwwCqg&feature=youtu.be"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge"></a>
      </td>
